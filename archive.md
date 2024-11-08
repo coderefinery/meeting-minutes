@@ -1,3 +1,97 @@
+## 2024-11-04 Ambassador call
+
+- Welcome
+- Introductions
+- Ambassador stories to share
+  - reusing CR git material to make my own course (with mixed results - bad parts due to my mistakes)
+- CodeRefinery news
+    - September workshop
+        - [Stats](https://coderefinery.org/about/statistics/) 
+        - Bring your own code sessions: see below
+    - [CodeRefinery train the trainer workshop](https://coderefinery.org/blog/train-the-trainer/)
+    - [Python for Scientific Computing (starting tomorrow)](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2024/)
+    - [Goodies](https://coderefinery.org/about/goodies/)
+    - [Slideset]() (ambassador wish), [source](https://github.com/coderefinery/presentations)
+    - CR at [CarpentryConnect](https://biont-training.eu/CarpentryConnect2024.html) (next week)
+    - Working on the future of the project :sunny: 
+- Reminder: Newsletter and digest
+    - Newsletter: Once in a while: https://postit.csc.fi/sympa/subscribe/coderefinery
+    - Chat digest, weekly: https://postit.csc.fi/sympa/subscribe/coderefinery-team
+- Would you like to be on the website? (let us know in chat!)
+- What do you need from us? 
+- Open discussion
+    - Discussions around Certification and Examination, testing knowledge retention
+    - Bring your own code experiences from different places with support sessions
+    - Workshops: twice a year "main CodeRefinery" + many others 
+    - Experiences with "background knowledge" needed for advanced computing courses, ie people work with computers but do not know how a filesystem is built up, or how a computer in general works (important to get some of the HPC concepts etc)
+        - RD/Aalto figures here:
+            - https://github.com/AaltoSciComp/aaltoscicomp-graphics/blob/master/figures/learning-slopes.png
+            - https://github.com/AaltoSciComp/aaltoscicomp-graphics/blob/master/figures/learning-slopes-extra.png
+
+Summary: 
+
+On Monday, we held our third Ambassador Call, bringing together our ambassador community for another engaging session. After a brief round of introductions, we shared the latest updates and outcomes from previous calls (see [notes](https://hackmd.io/@coderefinery/team-meeting)).
+
+The following discussion covered a variety of topics, including insights from different organizations on hosting "Bring Your Own Code" or other support sessions, methods for recognizing attendance at CodeRefinery and other workshops ("Do we need an exam?"). We also discussed the prerequisites for computing courses, debating whether introductory "How Computers Work" sessions or basic filesystem knowledge should be required.
+
+If this sounds intriguing, we’d love to have you join the CodeRefinery Ambassador Program! [Sign up](https://postit.csc.fi/sympa/subscribe/coderefinery-ambassadors/) to stay connected. As an ambassador, your role can be as unique as you are — whether it’s sharing information with your network, hosting your own classroom for a CodeRefinery workshop, co-developing lesson materials, or even teaching alongside us. The only requirement? A passion for CodeRefinery and the topics we cover.
+
+
+
+## 2024-10-28 Catch up and reports from recent and upcoming events
+
+- CodeRefinery Bring your own code session 1 (Radovan and Diana)
+    - FUN :) 
+    - 5-6 people, screens were shared, ton of questions (container, structure Python code, when to move out of one to multiple files)
+    - good feedback
+- CodeRefinery Bring your own code session 2: moved to Dec 18
+    - 10-12 CET/ 11-13 EET 
+- Python for Scientific Computing: status and help needed
+    - Install instructions need help (moving away from Anaconda)
+    - Testing and update needs to be done, especially Windows
+        - Installing and activating a environment from file documentation is needed
+    - This does not have an issue, discussion on chat
+    - RD takes and tries to do the first update by tomorrow afternoon.
+    - Parallel programming: co-instructor needed: RD
+        - mpi4py? - yes
+        - RD and JH to have a chat :) 
+- HPC training ecosystem session at EuroCC2 "Best practices in HPC training" training
+    - Some notes in chat: https://coderefinery.zulipchat.com/#narrow/channel/440358-events/topic/2024.20-.20Best.20practices.20in.20HPC.20training
+    - Nice to see what others are doing
+    - Too little time for interaction, collaboration 
+    - Repeat once in a while with more interaction
+    - Morning session (not too late in afternoon)
+    - What should we do in reaction to it?
+        - more documentation to the CR lesson template
+- Nordic-RSE:**Advent of Code** session
+   - Dec 19. Please let RB know if you want a cal invite or in chat (#nordic-rse channel) 
+   - Goal to meet for half a day, work together, have fun
+   - Previous years puzzles are also available
+   - https://adventofcode.com/
+- Spring CodeRefinery dates in March/April 2025
+  - dates to avoid?
+  - preferred dates?
+  - -> https://coderefinery.zulipchat.com/#narrow/channel/316508-coderefinery-tools-workshop/topic/Spring.202025.20CR.20workshop
+- NeiC wants CR to continue, even without proposal :tada:
+    - What it means for your organization: TBD
+    - NeiC encourages to ask for EU funding
+        - "AI call (soon, CSC & Aalto involved)""
+        - "training staff in these practices"
+- Celebratory blog-post: Reviewers wanted!
+    - [PR](https://github.com/coderefinery/coderefinery.org/blob/b4e869c23eeae669204a84ca9258570e51ba21f9/content/blog/2024-09-19-celebration.md)
+- Updates to [Meetings tab on website](https://coderefinery.org/join/meetings/)
+    - New minutes archive repo
+- AOB?
+  - RB: job situation after January  
+- Ambassador call next week :) 
+
+
+## 2024-10-21
+
+- Python for scientific computing Nov 5-7
+- Bring your own code session Oct 22 and 29
+- To be discussed later at co-work: ideas on how to better manage and follow-up on support@coderefinery.org (follow-up not meaning answering but how to close issues)
+- GitLab service future: looking good but documents still to be written and signed but it looks like DK might be able to continue running this in-kind
 ## 2024-09-30
 
 - Let's collect topics for topical meetings rest of this year
