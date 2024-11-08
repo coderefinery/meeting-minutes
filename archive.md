@@ -82,8 +82,7 @@ If this sounds intriguing, we’d love to have you join the CodeRefinery Ambassa
 - Updates to [Meetings tab on website](https://coderefinery.org/join/meetings/)
     - New minutes archive repo
 - AOB?
-  - RB: job situation after January  
-- Ambassador call next week :) 
+    - Ambassador call next week :) 
 
 
 ## 2024-10-21
