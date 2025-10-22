@@ -1,3 +1,672 @@
+## 2025-10-13 Visit from CodeRefinery project owner and working groups
+
+Attending: mb, sw, di, jh, hm, rd, bl, eh
+
+- Hello from Michaela
+    - With CodeRefinery from beginning
+    - RBs Nature article was a highlight
+    - NeIC for you :heart:
+        - Staff/team benefits
+            - NeIC encouraging self-improvement, but NeIC still in progress of moving to CSC, funding is scarce, money is being distributed by priority
+            - if you want to visit courses/conferences etc, let SW know 
+            - annual development dialog possible with SW (also possible to invite MB and/or HR person), SW to send e-mail reminder, no one is forced, but it is an offer
+    - Comment: in CodeRefinery it feels like things are based on community needs, not too connected to NeIC
+        - always been bottom up, top down failed in other project
+    - Q: What things go in NeIC report that will help get funding? Eg statistics from CodeRefinery
+        - Number of registrations per coutry
+        - EU level needs report on gender
+        - success rate -> post workshop survey
+    - CodeRefinery lastet long enough to build up momentum -> NeIC wants it to be independent and go on by itself
+    - NeIC looking for/applying funding: Horizon Europe, COST, ...
+    -  Comment: Please support high level networking with other unis and infra providers, like NeIC AHM/Conference
+- Working groups (see above)
+    - organizing work outside of workshop
+    - We went through the list above
+
+
+## 2025-10-06 Ambassador meetup
+
+Attending: DP (Elixir Estonia), EG, JR, MT (Gothenburg), SW, MM (KIT, DE), RD, HM, YW, TP, OT
+
+Pre meetup e-mail: https://hackmd.io/@coderefinery/ambassador
+
+- Introduction round
+    - Name, organisation, connection to CodeRefinery
+- Autumn 2025 workshop, thank you for helping to spread the word :heart:  (~25% of people got to know about the workshop via friend/colleague, ~35% other than our own newsletter/website/mailing list)
+    - numbers : ~500 registrations
+        - registrations per country / per session
+            * Denmark	104
+            * Finland	104
+            * Sweden	79
+            * Germany	60
+            * Norway	37
+            * United Kingdom	23
+            * Iceland	16
+            * India	8
+            * Netherlands	7
+            * Italy	6
+            * Argentina	5
+            * Canada	4
+            * Czechia	4
+            * France	4
+            * Spain	4
+            * 3 and less: Estonia, Poland, Serbia, Brazil, China, Afghanistan, Albania, Australia, Greece, Iran, Malaysia, Nepal, Peru, Portugal, Romania, Saudi Arabia, Singapore, South Africa, Ukraine, United States, Venezuela, Zambia
+        * registrations per session
+            * 317 registered to attend all sessions
+                * rest only certain sessions 
+        * Twitch views: between 85 and 280 (classrooms are 1 view).
+        * What other numbers would be interesting?
+            * other ways measure engagement?
+                * number certificate requests?
+                * engagement in collab notes (unique IP addresses from webserver logs?)
+                * % of those who opened the emails from Enrico (Enrico's outlook shows that)
+        * Make more clear in ads that attending separate sessions is ok -> Could be a show stopper for some to think that they have to attend it all
+
+    - Overview of "did not attend because" answers
+        - What was the reason you did not attend the first week of the workshop? (42 answers)
+            - ![image](https://hackmd.io/_uploads/H1pfoQb6le.png)
+            - Ideas to serve the "i did not plan to attend": 
+                - share links to materials and videos during registrtaion?
+                - ask during registration how they want to attend with link to materials and youtube
+            - Classroom: minimum attendance? (no for classroom hosts who attended call, in general ~6 people per helper is good, can be more, no shows)
+- Spring 2026 workshop
+    - dates
+        - starting after easter week: 14.4?
+            - Estonia: not May (too busy)
+                - 13-18 april is the week of school break.. many might take vacations
+            - Overlap: Practical Deep Learning at Aalto with CSC+LUMI 14&15/April, but maybe different audience
+            - University of Iceland: 1–7 April easter holiday
+            - Sweden (at least Gbg and Stlm): 3-10 April Easter holiday
+    - format
+        - short format (2x 3 half days, without exercises for part 2) vs spread format (3 half days + 6 sessions, with exercises for part 2)
+            - no comment
+- Curriculum and lesson development
+    - Additional lesson: "AI tools in research software development" ("hands on AI")
+        - will it also cover vibe coding?
+            - It is all about vibe coding :D
+            - "Responsible Vibe Coding for Researchers"
+                - For researchers: Adding the angle of reproducibility will be important (how to deal that same prompts gives different outputs? different models/tools)
+        - Google colab for data visualization, interesting to add?
+        - Maybe replacing jupyter? Maybe something else?
+            - Jupyter could be in documentation/ testing (after refactor), MM has some ideas.
+        - anything specific about research software in AI?
+            - reproducibility!
+        - AI Factory also startups 
+            - CR not aimed at industry, but we will not limit participation for industry people, they are welcome to join
+            - EG: I think it's very good that CR content has lots of reuse outside academia.
+            - EG: the "reproducibility crisis" is still an uknown issue for companies but they are realising how important it is.
+- Working groups/task forces
+    - Check out what we might be working on during next half year: https://hackmd.io/76jnB2v7ThKTT-X2iznebg?view#Working-group
+        - DP and MM interested in joining some work :heart: 
+- AOB
+    - Microcredentials? In discussion at EuroCC
+        - No one in call had experience
+        - providing badge, HM to share slides
+- Next meetup: Nov 17
+
+## 2025-09-29 Work arrangement
+
+Attending: HM, JR, SR, JH, BL, AM, EG, SW
+
+- Anyone want to teach "automated testing" with JH on Oct 15? - no
+- Workshop instructor debrief 3.11 (team meeting time, RD will host)
+- Notes summary from NeIC AHM: https://hackmd.io/_voZ8SuSRRi846plvdZTtQ#Summary
+    - Wish for more lesson planning (wrt invasion into Carpentries space) -> discussion after instructor debrief
+- Open task forces/working groups for next +- half year, not all may/need to happen, self-organizing (but do reach out to SW if you want support with that) wanna join?: 
+    - Installation instructions (RD)
+        - EG, RD, BL, SR, HM
+    - CodeRefinery MOOC (AM). See [here](https://hackmd.io/@coderefinery/CR_NeIC_AHM25#Coderefinery-MOOC) for details.
+        - YW, DI, EG, HM, ...
+        - [Norwegian Ai cloud report on different platforms](https://md.sigma2.no/s/kOtXo2lFa#) :+1: 
+    - Core values statement (SW)
+        - ..
+    - Citable lesson continued; metadata (SW)
+        - RD (automation), AM, ..
+    - AI "info boxes" to existing lessons (EG?)
+        - EG: I can at least help coordinating
+        - BL
+        - HM
+    - R examples to CodeRefinery lessons (?)
+        - HJ, AM, RB , ..
+    - Train the trainer (?)
+        - RD, ...
+    - Behind the scenes tour (?)
+        - RD, ..
+    - Spring 26 workshop organization  (?)
+        - EG
+    - RSE training ecosystem overview for learners (?)
+        - SW, ..
+    - Advanced git (?)
+        - RB, (all from first meetup), BL
+    - AI from user perspective lesson development (EG?)
+        - EG: I have it in slides form, will convert it to CR lesson
+        - BL
+        - AM
+    - Funding scouting (SW)
+        - HM (COST Action)[https://www.cost.eu/funding/open-call-a-simple-one-step-application-process/] The Open Call 2025 is open. The deadline for submissions is 21 October 2025 at 12:00 (noon) CEST. 
+    - Outreach activities: Social media, blogs etc (?)
+        - SW, EG
+    - Community events: Ambassador calls, open house etc (?) 
+        - SW, EG
+    - Manuals maintenance (?)
+        - RD, ...
+    - Learner persona: Data Steward consideration for materials (SW)
+        - EG...
+    - social coding lesson updates + supplemental material
+      - SR, EG, BL, ... 
+
+- Next week: Ambassador meetup
+    - Any needs/questions for them? Would anyone like to lead these meetings?
+        - [x] EG: We teach what we hope is useful to you and your colleagues, but what are potential challenges that you/your colleagues are facing and are not taught anywyere? (e.g. responsible use of AI for coding)
+- Oct 27: Workshop debrief with local classroom hosts (Agenda and notes here: https://hackmd.io/@coderefinery/CRfall25_classroom_debrief): 
+    - Any questions for them?
+        - EG: I will join later but it would be good to know:
+            - [x] Presence: did people show up consistently or did presence decrease?
+            - [x] Motivational factors: credits? snacks? drinks?
+            - [x] Blockers: did anyone mention any blocker that prevented them to attend? (overlapping teaching/work/events/conferences...)
+- AOB
+      - https://coderefinery.org/workshops/request/
+          - [SR] Folowup discusion with Tomasz, we need a policy on paid workshops requests.
+              - What does community think?
+              - Project owner/ NeiC opinion?
+              - Policy
+          - Cost action workshops enabled
+ 
+
+
+## 2025-09-22 NeiC AHM
+
+Most of the team is at the all hands meeting in Tallinn. If people want to hang out, feel free to discuss whatever you like :) 
+
+## 2025-09-15 Week 1 workshop debrief
+
+Attending: RD, JR, EH, DI, HM, HF, EG, SW, BL, EP, oT
+
+- Greetings from RSECon
+    - Lots of dRTP activities in UK
+    - "Carpentries and CodeRefinery" often mentioned together
+    - More coming soon via Nordic-RSE
+- FYI: NeIC AHM: draft agenda: https://docs.google.com/spreadsheets/d/15s1jJ4Rlgw4pIjGkc4A3adoNQeN_ipInB8EPIZsYS8Q/edit?usp=sharing
+- Observations and feedback on week 1 
+    - UiO: overall good, 15 registered, 5-8 followed, 4 helpers, followed manuals, participants quite happy to have help in room, day less questions in room, 
+    - HI: really nice experience, not many attended in room , first day 3 people, then 1
+    - CSC: 2 helpers, 1-3 out of 6 came, happy with on-site support
+    - virtual help session seemed to work well
+    - Is this a sustainable system?
+        - Setup and testing help appreciated
+        - Roles good for teachers to focus on teaching
+        - In-person good for learning from each-other
+    - Onboarding ok?
+        - Good to focus
+        - Learning by doing
+
+
+
+## 2025-09-08 Workshop chat
+
+Attending: BL, AM, DI, RD, HM, SR, SW, OT, EG
+
+- Workshop upcoming!
+  - All ready and clear what to do?
+  - Contact points:
+    - Main point of contact for instructors: Richard
+    - Main point of contact for local classroom/team leads: Samantha 
+    - Main point of contact for general stuff/director week 1: Enrico
+    - Support e-mail: Samantha
+    - Main document for roles overview: https://docs.google.com/spreadsheets/d/1g8Bc_76OPcv1vYWtB54wz6HsXQcb3B1GtQFga4Oanw4/edit?usp=sharing
+        - Notes manager:
+            - Tue (other days bolded person in gdoc is archiver): 
+                - Prepare doc with links and icebreakers: Enrico
+                - During workshop clean up (move to temp archive) and adding headers, remove names/"passwords", zoom links etc: Diana
+                - Check q&a content and publish to webpage (https://github.com/coderefinery/2025-09-09-workshop/blob/main/content/questions/day1.md): Enrico
+        - Virtual help room: 
+            - slide stating what this room is for showing at all times
+    - Anyone want to help with video production?
+        - Does not have to be same day, video is available on twitch for one week
+        - What does it mean?
+            - RD sends files
+            - find and mark cutpoints in video -> yml file
+            - fix automatic transcript
+                - remove names
+                - obvious wrong commands
+            - RD produces final output and uploads to Youtube
+        - RD to share how videos are processed
+        - We should advertize it more!
+    - NeIC AHM: please share your agenda wishes!
+
+
+## 2025-09-01 Workshop chat
+
+Attending: EH, HM, SW, JH, RD, JR, SR, DI, EG, GD
+
+- Workshop upcoming! 
+    - Any questions?
+    - Undergrad outreach?
+        - Not much, mostly researchers, postdoc, graduate students, RSEs
+    - stats: 314 in total
+     65 Denmark
+     58 Finland
+     52 Sweden
+     49 Germany
+     25 Norway
+     19 United Kingdom
+      8 Iceland
+      4 Netherlands
+      4 India
+      3 or less (and > 0): Serbia, Poland, Italy, France, Estonia, Czechia, Argentina, Brazil, Zambia, Venezuela, United States, Spain, South Africa, Singapore, Romania, Portugal, Peru, Nepal, Iran, Country, Albania,
+    - Plan: 
+        - Day 1 in browser (focus, because eevryone can do it, but mention other options) 
+            - Git-intro configuration in outro 
+        - Day 2: VSCode , show possibility to go to other tools
+        - Day 3: Mostly in GitHub
+        - Configuration could be mentioned end of day (terminal); make clear when it is needed
+    - Ask during lesson:  how they follow: VSCode, Terminal, GitHub 
+    - Install instructions: What about extensions? - Not part of instructions.
+    - Director: Give connection and ask instructors about the different ways
+    - Exercise time: Silent stream, important exercises can be demoed after that time. 
+        - Instructors: Please check that this list is up to date: https://coderefinery.github.io/2025-09-09-workshop/exercises/
+    - E-mail to participants: 
+        - EG will take care of sending 
+        - Will ask before sending out
+    - Repositories for day 3 have been cleaned up, but please check if you need to do something to them before Day 3
+    - RD will send an e-mail to week 1 instructors about overall arrangement
+- Discussion later: CodeRefinery vs Carpentries, beginner vs advanced -> AHM
+- Installation sessions coming up this and next week, feel free to join :)
+- Organizer google sheet: https://docs.google.com/spreadsheets/d/1g8Bc_76OPcv1vYWtB54wz6HsXQcb3B1GtQFga4Oanw4/edit?gid=874682821#gid=874682821
+
+## 2025-08-25 Ambassador meetup
+
+Attending: JL, HM, RD, MT, RH, GD, SW, MM
+
+- Introduction round
+    - What connects you to CodeRefinery?
+- Upcoming CodeRefinery workshop -> https://coderefinery.github.io/2025-09-09-workshop/
+    - Registration status
+    - Outreach support
+    - Questions
+- Lesson DOIs -> https://coderefinery.org/lessons/reusing/
+- GitLab service moving to DeIC, stays available for Nordics -> https://coderefinery.org/repository/
+- Anything to share or ask?
+    - For this workshop: We will also have a virtual support room in addition to the collaborative notes document (use Aalto link, same as install session & shell course + all virtual room, share details for claiming host)
+    - First e-mail to participants will go out on 27.8, then closer to the workshop some short reminders on install sessions etc 
+
+
+## 2025-08-18 
+
+Attending: RD, GD, V, DH, PS, E, DI, EG.
+
+- Instructor status: everyone has emails, stuff going well
+- How do local sessions work?
+    - Like watching a sports game: the stream shows stuff, you watch during the active parts and work locally during the inactive parts (exercise sessions)
+    - Local learners can either ask locally or via the Notes.  Or both, if it's something that other people should know about.
+- For CR staff: NeIC AHM: Regiistration deadline extended, but only few spots left. Link in e-mail. Collect topics here: https://hackmd.io/@coderefinery/CR_NeIC_AHM25
+    - Is online attendance possible?  We think yes but aren't sure.
+- Teaching plan example: https://coderefinery.zulipchat.com/#narrow/stream/215460-coderefinery/topic/teaching.20plan.20for.20one.20lesson/near/533972690
+-  DH: feedback from libaries.  It started as more software focused, and is moving more towards reporducible research, etc.
+    -  When people hear git and Github they think "not for me".  Should we do something to make CR more targeted towards them?
+    -  Yes, we wolud like these people.  Also see https://coderefinery.github.io/CR-in-a-day/ which was made from CR materials.
+
+## 2025-08-11 Open questions regarding the workshop and open discussion
+
+Attending: EG, RD, SW, DI, JH, GD, OT, MM, HM, ...
+
+- Workshop planning document: https://hackmd.io/@coderefinery/sep25_workshop_plan
+    - Anyone want to take any coordination tasks for the workshop?
+    - Instructors: remember to update the installation instructions regarding your lesson as early as possible!
+- Anyone want to provide a shell crashcourse before the workshop? +- half an hour
+    - RD can do it. Wed (Sep 3) , 13:00 - 13:30  (EEST)
+    - MM can do second Mon (Sep 8) , 13:00 - 13:30  (EEST)
+    - AP: SW update event page + calendar, installation help until 15 EEST
+- Zoom room for all to join, will be added to event page
+    - Zoom by KiT including "claim host" key
+    - Open for all
+    - Volunteers to join (especially day 6 - 1st of October ):
+        - ...
+        - 
+- RD to reach out to instructors soon for check-in, questions etc. 
+- Pyhton for Scientific Computing planning to resume very soon. EG will reach out. 
+- Zulip #lessons channel vs issues at lesson repositories
+    - First discuss on Zulip if its something to discuss, when things become more concrete: issue
+    - For things that just need to be fixed: Direct issue/PR
+    - Contribution guide coming soon :) 
+    - Follow: https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/lessons.20contribution.20guidelines/with/522192071
+
+> YW: For the upcoming weeks, we (me, ashwin and thor) cannot attend the weekly meeting as it conflicts with the EVITA project meeting. But I will go through all notes and provide my feedback asap to the right person. :laughing: 
+
+
+## 2025-08-04 Open discussion
+
+Attending: RD, HM, OT, MM, SR, TP
+
+* People coming back from vacation
+* What do we need to tell the "exercise coordinor?"
+    * Which exercises/pages we are planning on doing.  This is so that helpers and local organizers can preprare a few days early.
+    * The lesson can have more than we actually do
+    * Proposal: update the main schedule with sub-titles for each page/exercise block (if not obvious) we plan on doing.  That way there is a "single source of truth" that everyone can obviously see.
+        * Add more of these lines to the schedule: https://github.com/coderefinery/2025-09-09-workshop/blob/e5a1ffc951d9819f2a54ece6d71726d809991aab/content/schedule.yaml#L48C1-L48C258
+* MM offers to answer questions in Zoom (+OT)
+    * Could we offer it as the first days on a temporary basis.  See if anyone comes.
+    * We don't have to promise it the whole time.
+    * To do: make zoom, add to initial communicaiton material.  Make sure to not promise too much.  HM tries to make a zoom.
+
+## 2025-07-28 Open discussion
+
+Attending: 
+
+
+
+## 2025-07-21 
+
+Attending: RB, OT, RD, SW
+
+- RD would like to hand off things to people
+    - Goal is to not do anything for the workshop except for teaching others how to do the things done before
+    - Streaming; JR might be interested
+    - Video processing; good to find one person or ideally many
+        - RB might be able to help
+        - Could be done after workshop including a workshop teaching how its done
+    - Director: Managing the flow during workshop days
+        - Can be decided closer to the workshop
+    - Helping new teachers getting started with stuff
+- RD will be around to help though
+
+- RB: focus on lesson development and teaching and on-board my co-instructor(s)
+- Teacher onboarding time will be defined by whenisgood ((https://whenisgood.net/CR25_instructormeetup))
+    - RD will host the session
+    - RB around to support
+- OT: git intro ok
+    - ToDo: 
+        - Exercise preparation: 
+            - check if everything is cleaned up from last workshop
+        - Lessons can be changed if wished, see checklist behind spoiler in instructor section: https://hackmd.io/xM9uEFrJTSm8HnYChxHf8Q#Instructors
+            - Larger checklist in manuals: https://coderefinery.github.io/manuals/lesson-review/
+- Modular code dev: 
+    - Want to improve: Less python centric and more interactive and possibly collaborative
+
+- Plan before workshop: Have manuals updated and ready to go for instructors to read end of this week. 
+- NeiC AHM: please register asap!
+- Newsletter went out: https://hackmd.io/@coderefinery/july25_newsletter 
+- Onboarding for new members (AM, GD, EH, HM, PS, AM, OT) held in June/July; materials: https://coderefinery.github.io/manuals/onboarding/
+    - Any feedback?
+- Manuals got some updates in roles& tools sections: https://coderefinery.github.io/manuals/
+- Interest in being an instructor at upcoming workshop? -> Fill in here : https://hackmd.io/xM9uEFrJTSm8HnYChxHf8Q#Instructors
+- "Bring your own classroom or team" info event?
+- Instructor training needs and wishes?
+
+## 2025-07-14 Random chat
+
+Attending: HM, SW
+
+We discussed about Carpentries and the NeIC AHM.
+Linking also to the collection of other similar organizations and initiatives: https://hackmd.io/@coderefinery/RSE_train
+
+
+## 2025-07-07 Workshop chat
+
+Attending: SR, HM, SW, RD
+
+- Planning status: https://hackmd.io/@coderefinery/sep25_workshop_plan
+    - publishing webpage
+- Instructor training
+    - pilot session with RD went well 
+- Roles updates in manuals ongoing
+    - plan:make roles section shorter
+        - practices separate page 
+    - (RD) Broadcaster: manage streaming computer. 
+    - (RD) Director: manage the flow of instructors between sessions. Prep people, make sure all the little things get done. A perhaps hidden but important role. Not too hard if someone just decides to go for it
+    - (RD) Video producer: can be postponed
+    - Instructor trainer: do training, meet people before, do practices, make sure they are ready to teach. 
+    - Lesson maintainer?
+        - BioNT: Everyone maintains own lesson
+        - Could try: Rotating ownership (with instructor)
+            - example schedule: 
+                - x (~ 6) weeks before workshop - talk to earlier instructors
+                - x (~ 2) weeks before - install instructions need to be ready
+            - idea: issues with checklist (could be an issue template)
+                - one task could be to watch the repo and PR
+                - MAke this less work as possible -- i.e. an issue template
+            - 
+- NeiC AHM: please register asap!
+- Involvement opportunities
+    - instructor and coordinators important for now
+    - collaborative notes helpers etc also needed
+- Info event?
+    - Let's get back to this in 2 weeks
+
+## 2025-06-30 Ambassador meetup
+
+- Introduction round
+- News from ambassadors?
+- News from CodeRefinery
+    - Next workshop dates and possibilities to get involved
+        - Dates: 
+            - Git intro + collaborative git: Sep 9-11, 11:00-13:00 and 14:00-15:30 (Oslo CEST times)
+            - "week 2" spread over 6 weeks Wednesdays 12-14.30 CEST, each lesson separate including exercise sessions
+              - if any module of "week 2" sessions requires anything from week 1 as prerequisite, try to be very explicit about it 
+            - Workshop webpage: https://coderefinery.github.io/2025-09-09-workshop/
+            - Registration will open soon
+            - **Bring your own classroom** (currently planning in-person classrooms in KTH (Stockholm), CSC/Aalto (Espoo), DTU (Copenhagen), HI (Reykjavík), UiO (Oslo)), wanna help out or add your own? -> e-mail to support@coderefinery.org
+              - Question came up whether in the past we have surveyed the learner preference about in-person classroms. 2024 survey: https://coderefinery.org/blog/2024/08/10/post-workshop-survey/
+              - TUD: contact with graduate schools was an effective way to reach potential learners
+    - Apply to be community representative for the CodeRefinery steering group! -> https://hackmd.io/@coderefinery/community-elected-sg
+    - We are planning instructor training, open house sessions and defining a "CodeRefinery workshop" to make use of the name clearer
+        - Any thing else that would be helpful?
+- Next ambassador meetup: 25.8 same time, same place 
+
+
+## 2025-06-23 Open discussion
+
+Present: BL, HM, DP, SW, 
+
+- NRIS: LLM finetuning and GPU optimization: https://documentation.sigma2.no/training/GPU_Tutorials/2025-GPU-Tuorials-Series.html
+- NRIS: HPC onboarding in October
+- HI: survey planned before workshop about needs and interests
+
+RSE: 
+- NTNU: RSE group, secure data etc., legacy software without funds to update -> installing old tools
+- HI: don't know, UTS: infra for researchers, EuroCC, 
+- UiB: Carpentries group, not sure about other groups, climatologists: need for RSE is high, but do not know how to get; porting code etc., dealing with legacy code -> installing old tools
+- IRI: gov funded, support research & academic, current focus on storage, onboarding people, some projects for porting legacy code, support for hazard simulations; national cluster + hosting danish met cluster
+
+Reminder on community representative in steering group. 
+
+## 2025-06-16 Open discussion
+Present: RD, BL, SR, OT, PS, EH, HM
+
+- Autumn workshop
+    - We know the dates: 9-11 september
+    - We know week 2 is split over six weeks
+    - Workshop webpage needed (registration isn't yet open)
+    - SW will communicate the details to partners once it's known
+    - New teachers?
+        - Reccomendations: start thinking of favorite lessons.  Read + work examples + make notes (issues) about anything that needs updating
+        - Go through the current material once you find your favourite topic, suggest improvemtns. If you could contibute to soloving an issue please contribute. Participate in pull request reviews 
+        - Checkout the recordings of past events. 
+        - This is one video that collects various demos of the parts of the livestream teaching: https://www.youtube.com/watch?v=WjmttAniZX8
+        - RD will host teaching practice 24 June 13 CEST, requset an email invite
+
+
+
+## 2025-06-09 Autumn workshop
+
+Attending: EG, AM, RD, HM, JH, SW (joined late)
+
+Fixed: Week 1: Sep 9-11 2025
+
+Requirements, wishes and reminders: 
+- Survey on which day of week would be good as "seminar day" for a  spread out week 2 in chat: Wednesday
+- Not every instructor needs to attend every session
+
+Teaching interest scouting from kick-off:
+- EG: anything from day 4 is fine (reproducibility and/or social coding/licensing). Also can coteach anything else for week 2 (on week 1 since I will host an in-person room).
+- BL: All days are available
+- GD: anything on day 1-3
+- JH: days 1-4 work
+- DI: anything day 1-3
+- RD: anything, prefer days 1-3
+- JR: Testing, documentation, social coding, git (Anything OK)
+- HM: uncertain as of now but happy to contribute
+- AM: depends on the schedule
+- YW: at least two days will be available from my side
+
+
+**To discuss and decide:**
+- Workshop week 2 format
+  - 3 normal workshop day sessions spread over 3 weeks
+  - 6 single topic sessions over 3 or 6 weeks 
+  - additional session motivating "week2" topics ?
+  - exercise vs demos 
+---
+
+# THIS IS YOUR LAST CHANCE TO VOTE!! :)
+
+### Vote for workshop format for "week 2":
+
+A: oo
+B: o
+C: oooo
+D:
+
+Legend:
+A: 3 Wednesdays over 3 weeks, w exercises; 17.9+24.9+1.10
+B: 3 Wednesdays over 3 weeks, demo only; 17.9+24.9+1.10 ==THIS IS THE DEFAULT==
+C: 6 Wednesdays (over 6 weeks), w exercises;  17.9+24.9+1.10+8.10+15.10
+D: 6 Wednesdays (over 6 weeks), demo only; 17.9+24.9+1.10+8.10+15.10  
+
+(No exercises does not stop local teams to do exercises in person and stay longer)
+(We do not expect every instructors to be available for all "week 2" days)
+
+### If exercises are back for week 2
+At the end of the "lecture" parts?
+Interwined like we used to do? (and less lecture time)
+As separate sessions organized locally?
+
+---
+**Workshop daily timing**
+  - Starting time  (no earlier than 9 iceland time (10 CEST))?
+  - Lunch break?  
+  - Session lengths?
+  - ... 
+
+### Vote for timings
+
+A:
+B:
+C: ooooo
+D: o
+
+- A: classic 
+    - 9-11 12-13:30 CEST (10-12 13-14:30 EEST) 
+- B: A+1h
+    - 10-12 13-14:30 CEST; (11-13 14-15:30 EEST) 
+- C: A+2h (Iceland friendly) ==THIS IS THE DEFAULT==
+    - 11-13 14-15:30 CEST; (12-14 15-16:30 EEST) 
+- D: A+1.5h (Another icelandic friendly option)
+    - 10:30-12:30 13:30-15:00 CEST; (11:30-13:30 14:30-16:00)
+
+
+Format:
+Timing: 
+
+
+### Build Systems Course 2025
+
+- Suggested dates for a rerun in the autumn 2025 are Tuesday 11 November - Thursday 13 November. Please indicate interest and availability in the poll on Zulip https://coderefinery.zulipchat.com/#narrow/channel/440358-events/topic/2025.20-.20Build.20System.20Hackathon/near/522448024
+    - There would be overlap with AI day in Finland, but maybe it is not exactly the target audience (we are talking about 100 doctoral students + 5 RSEs who wouldn't be able to make it)
+    - EG should check with Simo who might not be avail on that week, but maybe no containers this time since there is another NAISs event on the containers.
+    - Last year 4 days x 3h, this year 3 days x 3h (and days are stand-alone)
+    - Aalto is in for promotion with own reserchers 
+    - CSC internally forwarded, SW will let JH know if there is interest
+    
+---
+
+## 2025-06-02 Open discussion
+
+Come to discuss any topic you might find interesting and please take a few notes here :) 
+
+Autumn workshop: 
+- Week 1: Sep 9,10,11 (8-11.9 internal training at NRIS, but likely not an issue)
+    - ==KTH library: local room in collab with Johan, Yonglei, Ashwin; Samantha to connect library to ENCCS==
+        - Best approach to separate the CR workshop communication with the "local logistics communication" is that everyone registers to main coderefinery indico, CR organisers give all swedish emails to KTH organiser. KTH organiser sends emails to their people and a form "if you are coming, register here".
+        - Enrico should push to manuals "how to run a local CR workshop with watching the streaming together"
+    - Oslo library is interested (local carpentry node person contacted Enrico)
+    
+- Week 2: 
+    - setting up easier for one week, but also possible for multiple weeks
+    - keep demo for second week, offer separate exercise sessions? (not us, but let local organizers do it)
+KTH :check: , UiB (DP reaches out to Carpentries community), UiO (SW via Carpentries community), UI (survey to be done), UiT (GD asks around)
+
+Project plan: https://docs.google.com/document/d/1a6Gu9rtD-EaP51mcMV1LwlrndcIGn21_UbBedtyL_JA/edit?usp=sharing
+- Please read if you have time, especially chapter 2.5. 
+
+Aalto HPC kickstart course starting tomorrow.
+
+ISC survey on HPC training will be shared later this year. Over 800 responses.
+
+NRIS survey on training: Olivia survey indicate people are preferring documentation/self paced tutorials.
+
+
+## 2025-05-26 Team meeting
+
+- [Governance](https://github.com/coderefinery/governance-charter): Community representative in steering group meeting
+    - Call for volunteers 
+> Purpose and responsibilities (responsibilities may be delegated to the Community/Project Managers):
+
+    Strategic and organizational planning
+        Project approval and oversight
+        Policy oversight
+        Coordinate community initiatives
+        Fostering collaboration among members (within and outside of CodeRefinery)
+        Ensuring the effective implementation of community objectives
+        Steering the lesson portfolio
+        Provide a contact point
+        Define and maintain the governance model
+        Resolve disputes or conflicts that cannot be handled at other levels
+    Overseeing contributions
+        Confirms partner-level contributions.
+        Confirms Community/Project Manager(s) (likely with the community's input) and delegates most daily operations to them.
+        Guides the definition of the CodeRefinery community
+        Guides how cross-organization events should be reported to make sure that credit goes to the right place
+    Managing the brand
+        Trademark management: Name, brand, and public image
+        Manage intellectual property with a distributed ownership model
+        Guides the definition of what event can be called “CodeRefinery workshop”
+    Technical oversight
+        Delegate administration of various accounts: Freshdesk, Twitter, Fosstodon, GitHub, domain name registration, HackMD, HedgeDoc, Indico, chat, mailing lists, GitLab, YouTube
+        Manage the data and data sharing policies
+        Manage transferring the GitLab service to another organization
+    Financial oversight
+        Make agreements on behalf of CodeRefinery
+        Business case and budget plan
+        Capacity plan
+        Works with organizational partners to define in-kind contributions and roles
+        Contribute to the project’s sustainability by securing sponsorships or funding
+
+
+- Autumn CodeRefinery workshop
+    - Trial: 
+        - Week 1 (git and git collab): 9+10+11/Sep
+        - Week 2 spread over 3 weeks ([poll about day in chat](https://coderefinery.zulipchat.com/#narrow/channel/316508-coderefinery-tools-workshop/topic/Autumn.202025.20CR.20workshop/near/520371709))
+            - RD might be gone for one of the weeks, EG can direct
+            - How to spread out over the days, incorporating exercises etc? -> discuss in chat
+                - Chat suggests Wednesday might be good day
+                - Timing starting could be 12 EEST - 16 EEST
+                - Split exercises from lecture -> actual homework? Bring your own code?
+                - Regsitration handling also needs to be thought of
+                    - Likely one registration
+
+- [Kick-off](https://hackmd.io/@coderefinery/CR4_kickoff) wrap-up 
+    - Please fill in your session summaries, if you haven't yet!
+    - Resulting action points:
+        - SW: Finalize [project plan](https://docs.google.com/document/d/1a6Gu9rtD-EaP51mcMV1LwlrndcIGn21_UbBedtyL_JA/edit?usp=sharing) - open for comments from team, especially 2.2 & 2.5
+        - [Recurring calendar event](https://github.com/coderefinery/calendar/)
+        - Set up communication channels: CodeRefinery-announcements in chat, e-mail 
+        - CodeRefinery workshop definition for website
+        - [Autumn workshop](https://coderefinery.zulipchat.com/#narrow/channel/316508-coderefinery-tools-workshop/topic/Autumn.202025.20CR.20workshop/with/494851182)
+        - (Lessons learned from looking at statistics -> blog?)
+        - Onboarding
+
+
 ## 2025-05-19 Ambassador meeting
 
 Tentative planned activities for CodeRefinery Phase 4:
