@@ -3,7 +3,7 @@
 
 ## 2023-07-03 to present
 
-See [archive.md](archive.md). Here we copy content from meeting notes with latest on top.
+See [archive.md](archive.md). Here we copy content from meeting notes with latest on top with some time delay. 
 
 
 ## Community calls 2021-08-09 to 2023-01-09
