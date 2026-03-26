@@ -757,7 +757,7 @@ Any comments, wishes, questions?
 ## 2025-03-24 Workshop preparation
 
 :::warning
-Overlaps with install help and instructor setup test: Let's all meet at today: https://aalto.zoom.us/j/69608324491 
+Overlaps with install help and instructor setup test: Let's all meet at today: zoom link
 :::
 
 ## 2025-03-17 Workshop preparation
@@ -767,7 +767,7 @@ Overlaps with install help and instructor setup test: Let's all meet at today: h
     - Not only package versions but also general clarity/usability needs to be updated -> see issues: https://github.com/coderefinery/installation/issues
 
 - Install help session after Day 1 / Day 4 or before Day 2?
-    - Separate zoom room (installhelp zoom room https://aalto.zoom.us/j/69608324491) for afterparty + support :heavy_check_mark: 
+    - Separate zoom room (installhelp zoom room zoomlink ) for afterparty + support :heavy_check_mark: 
     - announce during lesson in collab notes
     - Highlight also local support, where available; 
     - Zulip #help -> one topic for workshop -> announced in intro, mention in end
