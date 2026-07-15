@@ -1,3 +1,475 @@
+## 2026-06-22 Lesson maintainer
+
+Attending: RD, JH, OT, BT, MJ, JM, SW
+
+- Reminder to please join the extraordinary NeIC meeting tomorrow, if you can. (Don't worry if you cannot, content will also be distributed aso in written format afterwards)
+- Short intro round and welcome to Julia and Marit from Uni Tromsø <3
+
+> See also Carpentries maintainer handbook: https://docs.carpentries.org/handbooks/maintainers.html, and https://carpentries.github.io/maintainer-onboarding/03-communicate-contributors.html#top-ten-tips-for-managing-issues-and-pull-requests
+
+- Share your interest in lesson maintainership: 
+    * git-intro: DI, ..
+    * git-collab: DI, ..,..
+    * reproducible research: SW , ..
+    * social coding: (RB), EG ..
+    * AI coding: BT, EG, ..
+    * documentation: AM, MM, .. 
+    * testing: JH, ..
+    * modular-code-dev: RB, ..
+
+-> Question to all (no matter if you signed up or not): What info/training would you need to be a confident lesson maintainer?
+        - expectations and know maintainer responsibilities
+        - short term (everything still working, exercises) vs long term (lesson changes, topic additions)
+       - Guidance on the review/approvl process
+       - A short walkthrough or mentoring session
+       - ...
+       
+- Expectations of a lesson maintainer - discussion:
+    - consider stability of materials, examples, exercises still working for the workshop
+    - new content often comes late before the workshop
+        - as maintainer: consider to add new stuff earlier than just before the workshop 
+    - most of time: making sure stuff stays stable, especially before teaching
+    - maintainers can do larger changes at other times disconnected from workshop, up to maintainer when these should 
+
+- Naming: Lesson maintainer?
+    - Lesson editor
+    - Curating editor
+    - Manuals page: Lesson curating editor
+    - Lesson maintainer: can be seen as "make sure that nothing breaks"
+        - If other too, then maintainer not the right term
+    - Editor: More in terms of books ("Edited volume")
+    - Maintainer often used, see eg Carpentries, open source software maintainer
+        - implies project lead
+    - Or come up with completely different name
+- Maintainer it is. 
+
+- Maintainer related manuals pages: 
+    - https://coderefinery.github.io/manuals/lesson-editor/
+    - https://coderefinery.github.io/manuals/lesson-design/
+    - https://coderefinery.github.io/manuals/lesson-review/
+    - https://coderefinery.github.io/manuals/lesson-contribution/
+    - new page planned on "spirit of a CodeRefinery lesson"
+        - An answer to "can this be a CodeRefinery lesson", how does it differ from other lessons (Carpentries, uni etc)
+            - > See also XX 
+    - Checklist for "what every CR lesson should include"?
+
+> Not discussed: 
+> - Additional Maintainer page? (current: https://coderefinery.github.io/manuals/lesson-editor/)
+    - Role requirements
+        - Knows lesson (and its history) well
+        - Responsive and welcoming for issues and PRs
+        - Know how the lesson pages are built, basic syntax
+        - ...?
+    - Duties
+        - Update lesson issues/PR and merge/remove/clarify?
+        - Instructor guide check?
+        - Keep CITATION.cff up to date? and publish to Zenodo
+        - In contact with instructors before workshop?
+        - ...?
+> - Maintainer workshop(s)/onboarding? Half-yearly maintainer meetup, after each workshop?
+> - Credit to maintainers? Where?
+> - Suggestion: Lesson maintainers to introduce their lesson at CR meetup in October. Short overview, where it is now, challenges & opportunities
+
+
+- AOB
+    - Workshop planning doc: https://docs.google.com/spreadsheets/d/1sWaJdE7m9f6Ml2m-XMX-oAaoS3SjVXPEdcE2Jnhjdqw/edit?gid=485665383#gid=485665383
+        - Open role: Bring your own code / support session coordinator
+    - Onboarding
+        - Welcome message in Zulip
+        - Manuals page 
+        - Zulip
+            - What is the octopus?
+            - Upvote / Triangle 
+            -    
+    
+
+## 2026-06-15 Ambassador meeting
+
+Attending: SD, BT, MT, MM, Avi, SW, RD, TP
+
+- Welcome
+- Introductions
+- Reports from other events/initiatives
+    - NHR Summerschool: 15 people, with lessons from CodeRefinery (documentation and testing), self evaluation of teaching too fast and maybe not clear enough, used Sphinx lesson template, was liked, nice to not have to prepare whole material, still adjusted to present in slightly different way, would prefer to do this in continuous way, liaising with MOOC team about it; learned: when teaching be clear about changing topics. demographics: people think they know more than they actually do; demand for lesson prep work should be spread about multiple weeks, not the last moment.
+        - Comment: Put up times and distribution early to make possible to prepare early
+        - We are learning to do assignments early on. 
+    - Nordic-RSE: 90 people registered, happy to see community grow
+        - easy for members to contribute and communicate
+        - busy organizers, event went smoothly
+        - various session topics were liked
+        - presenting poster was good experience, good insights, interest in becoming instructors
+- Open Questions, discussion
+    - NeIC AHM/CodeRefinery meetup
+    - Workshop preparations
+    - Description page in manuals about to "spirit of a CodeRefinery lesson" -> RD will work on this
+        - Going through manuals as open task
+        - Lesson development section exists but old
+        - RD wants to update workshop template
+- Wrap-up
+
+## 2026-06-08 Team meeting
+
+Attending: SW, DI, JH, SR, AM
+
+- Autumn workshop: 
+    - Anything we should discuss before setting roles and opening registration?
+        - Format, timing, extra sessions... ?
+- NeIC+AHM (internal planning meeting on Friday 12/6, more news will be shared via e-mail soon)
+    - Nice to optimize for in-person and team activities and less technical
+    - Is there something we want to do:
+        - Hackathon like activities in teams / pairs.
+    - Is there something we do NOT want to do:
+        - Do not spent time on planning for work which never gets executed.
+    - Other ideas that were pitched:
+        - markdown to HTML conversion
+        - lesson structure:
+            - Perhaps more suitable as an internal seminar / instructor training?
+        - agentic AI workshop for the whole NeIC:
+            - AM: happy to contribute.
+- [EVITA call](https://www.evitahpc.eu/public-calls/) for modular training material proposals slightly delayed, however the guidelines has been released. Questions:
+    - Will the final date be postponed? 31 July can be hard for some.
+    - Is there any CR lessons suitable from this open call accordining to [EVITA CQF course list](https://www.evitahpc.eu/wp-content/uploads/2026/06/CQF-course-list.pdf)?
+
+
+## 2026-06-01 Team meeting
+
+Attending: BT(host), AM, SR, RD, OT, HM
+
+
+Reminder: 
+1. Please provide your availability for full team meeting in June: https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/team.20meeting/near/596671539
+1. Share your interest in roles for the next workshop: https://coderefinery.zulipchat.com/#narrow/channel/316508-coderefinery-tools-workshop/topic/Autumn.202026.20CR.20workshop/near/598259190 
+1. Share your interest in lesson maintainership: 
+    * git-intro: DI, ..
+    * git-collab: DI, ..,..
+    * reproducible research: SW , ..
+    * social coding: (RB), EG ..
+    * AI coding: BT, EG, ..
+    * documentation: AM, MM, .. 
+    * testing: .., ..
+    * modular-code-dev: RB, ..
+-> Question to all (no matter if you signed up or not): What info/training would you need to be a confident lesson maintainer?
+       - know maintainer responsibilities
+       - Guidance on the review/approvl process
+       - A short walkthrough or mentoring session
+       
+
+FYI: 
+- Dates for CodeRefinery in person meetup fixed to 19.-21. October in Copenhagen, Denmark
+    - Starting with Lunch on Mon 19.10, afternoon: team work (&dinner? - TBD)
+    - suggested topics for meeting agenda:
+       - Break into groups and work on issues with a fresh perspective after the autumn workshop.
+       - Consider separate, more focused and detailed workshops/ seminars/ sessions for the most popular topics.
+       - Discuss adding, removing, or improving lessons based on attendee reviews.
+    - Tuesday 20.10: full day team work including breakfast & lunch (& dinner? - TBD)
+    - Wednesday, 21.10: Morning activity, end before lunch
+    - Starting Wednesday with lunch is NeIC AHM (we have another half a day for project discussion there), please attend both, if you can
+    - Practicalities e-mail and registration coming soon
+
+Discussion: CodeRefinery GitHub organization now has two teams: [Workshop contributors](https://github.com/orgs/coderefinery/teams/workshop_contributors): write access to all lesson relevant repos
+and its "child": [NeIC_team](https://github.com/orgs/coderefinery/teams/neic_team): same rights as "parent" + all repositories write access
+    
+    1. Please check that YOU have the correct rights you need for your role in CodeRefinery
+    2. What to do with CodeRefinery organization members that currently do not fit any of above team (mostly previous helpers and earlier team members)? Through organization membership they currently have "all repository read acces".
+    
+Open TODO: Write something for manuals, help welcome - contact SW :)
+      - What exact help is needed?
+    
+
+
+## 2026-05-25 Open discussion
+
+Attending: RD, EG, DI, JH
+
+Please provide your availability for a full team meeting in June: https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/team.20meeting/near/596671539
+
+- Sign-up for lesson maintenance interest: 
+    * git-intro: DI, ..
+    * git-collab: DI, ..,..
+    * reproducible research: SW , ..
+    * social coding: (RB), EG ..
+    * AI coding: BT, EG, ..
+    * documentation: AM, MM, .. 
+    * testing: .., ..
+    * modular-code-dev: RB, ..
+- No notes
+    
+
+
+## 2026-05-18 Open discussion
+
+Attending: FR, SW
+
+- FYI: Bahar will bring a CodeRefinery poster to Nordic-RSE conference :tada: 
+- FYI: Potential possibility to team up with CSC HPC experts for hackathon on RSE & performance optimization for HPC, more on this later
+
+
+---
+
+- Lesson editors/maintainers
+    - https://coderefinery.github.io/manuals/lesson-editor/
+    - Monthly lesson specific meetings? Once per month, every second Monday of a month?
+        - Could start with every lesson maintainer introducing their lesson, challenges
+    - Sign-up for interest: 
+        * git-intro: DI, ..
+        * git-collab: ..,..
+        * reproducible research: SW , ..
+        * social coding: (RB), ..
+        * AI coding: BT, ..
+        * documentation: AM, MM, .. 
+        * testing: FR, ..
+        * modular-code-dev: RB, FR
+        * Installation instructions: 
+
+## 2026-05-11 
+
+Attending: RD, JH, MM, BL, BT, SW
+
+- GitHub CodeRefinery organization roles, who should have what rights?
+    - Separation of lesson repos from other stuff? -> 2 organizations?
+        - We have already:
+            - https://github.com/coderefinery
+            - https://github.com/cr-workshop-exercises
+                - Learners should not appear in the main CR repo, should be easy to reset
+    - Member types: 
+        - Organization member
+            - general rights?
+            - teams rights?
+                - **NeIC team**
+                - **Collaborators** (active instructor, or chance they will teach, access to all lesson repos)
+                - maintainers
+        - Outside collaborator
+        - Owner
+    - Default permission for all org members: Read-only or also push rights?
+        - Aalto: team for maintain access
+    - Instructor experience: Nice to fix things directly, but also ok to make PR. More efficient to have access early on. 
+    - Agreement on self-push vs PR, intention was that someone else should look before merge
+    - RD: my idea: make team `neic-staff` and `staff`, `staff` gets write access to all lessons/manuals/etc.  `neic-staff` gets write to important user-facing stuff such as coderefinery.org.
+        - "Projects base permissions"=write is the main setting to be updated.  This means all members can write to every repo.  Change to "read" and then we *have* to use teams.  All else looks good.
+    - Policy? -> Add instructors as collaborators when instructors are set
+    - PR first, self merge when approriate
+    - Document how to get added to the team, how to get acknowledgement
+
+- [Post workshop survey](https://github.com/coderefinery/2026-post-workshop-survey/blob/main/README.md)
+    - Open tasks: 
+        - MM is interested, SW to check about sharing, done and shared
+        - move data to lesson issues, SW
+        - Blogpost, SW
+- Lesson editors/maintainers
+    - https://coderefinery.github.io/manuals/lesson-editor/
+    - Monthly lesson specific meetings? Once per month, every second Monday of a month?
+        - Could start with every lesson maintainer introducing their lesson, challenges
+    - Sign-up for interest: 
+        * git-intro: DI, ..
+        * git-collab: ..,..
+        * reproducible research: SW , ..
+        * social coding: (RB), ..
+        * AI coding: BT, ..
+        * documentation: AM, MM, .. 
+        * testing: .., ..
+        * modular-code-dev: RB, ..
+
+
+
+## 2026-05-04
+
+Attending: RD, DI, BT, HM, SW, HF, AM
+
+- GitHub permissions: 
+    - Create teams -> SW
+        - Staff
+        - Instructor team
+        - Learner team
+    - Write in manuals -> SW (proposal: new page  /github-organizations, toctree under "About CodeRefinery", make sure linked from the onboarding page)
+- Peek into post workshop survey answers
+    - Same analysis as for last survey: https://coderefinery.org/blog/2024/08/10/post-workshop-survey/
+    - Collect topics for potential seminars
+    - Add lesson related things as issues
+    - Videos: what to do in future? raw vs processed
+        - AM: Working on a more automated process for Mimer, LLM to go last mile, will update when ready
+        - Tell instructors to say some codeword?
+            - Easy to forget
+            - Weird
+        - Instructors may want some parts to be removed before published
+    - Surprise about time saved, people say few hours, but other answers suggest more
+        - Difficult to quantify
+
+
+
+## 2026-04-27
+Attending: RD, BT, DI, HM, AM
+
+* next workshop in Septmber
+    * Same coordinators as before, DI as registartion and EG as instructor
+    * Instructor training times (RD):
+* Lesson editors?
+    * https://coderefinery.github.io/manuals/lesson-editor/
+    * These are people who would be overseeing contributions and instructor onboarding for the lessons
+    * Proposed editors:
+        * git-intro: DI
+        * git-collab:
+        * reproducible research:
+        * social coding: RB
+        * AI coding: BT
+        * documentation: AM
+        * testing:
+        * modular-code-dev: RB
+    * How to enforce the role of the editor?
+        * Use Github teams (see below)?
+        * Use [.github/CODEOWNERS file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)?
+* Github teams for repo permissions?
+    * Different teams under the organization
+        * Staff team (almost full access to everything, official collaborators, admin/maintainer access on repos)
+        * Instructor team (write access to the lesson repos, workshop repos, other frequently updated places?) - anyone who is teaching with us or other close help for workshops.
+        * participant teams (for git-collab, in organization cr-exercises).
+    * we ask SW
+* Date for Python for SciComp
+    * We should try to decide this soon but can't do it now.
+
+
+## 2026-04-20 Working groups
+
+Attending: SW(host), DI, SR, BL, EG, BT, RD, HM ...
+
+Project plan, FYI: https://github.com/coderefinery/reports-and-proposals/blob/main/phase-4-project-plan/CodeRefinery-phase-4-project-plan.pdf
+
+- Existing working groups: How did you organize the group? What would you do differently next time?
+
+- Open topics from active working groups; what do you need to proceed?
+    - Social coding - SR
+        - plan: talk with an expert as supplementary material, focus on AI
+        - wants to continue
+    - :tools: Data steward - SW
+        - in progress with Tampere data steward course
+        - EG: maybe this will turn into an open source book? "Data Science for Data Stewards" 
+    - AI lesson - EG
+        - AI lesson exists now :)
+        - Being updated tomorrow since I have a workshop on Wednesday...
+            - more compressed
+        - Things are changing rapidly
+        - Lesson dev will continue after summer
+        - good for raising awareness
+    - :arrow_right: Advanced git - SW 
+        - moved to Carpentries community (?)
+        - would be good to to have something under CR too
+        - we could revisit 
+    - TTT/ instructor prep - RD
+        - Went well, awaiting next cohort for small modifications.
+        - No separate TTT at this moment, but small sessions before workshop
+        - Continue small updates
+        - Most important: set dates for the onboarding and practices early
+        - Lesson template is used much
+            - Workshops on how to use?
+            - SR would have a place to show it again
+            - How to give credit to CR 
+        - Lesson for other project people about "things we have available" , invite to workshop, share about lesson template
+        - TTT could provide certificate, including teaching
+            - people could use it for their portfolio
+            - Could be formalized? and get an official certificate that lecturers/academics can use in their careers
+        - Also helpers could get certificate (they can ask for it), separate from instructor
+        - RD can always be invited to give a talk about our setup and things available
+    - :tools: More R to lessons - SW
+        - issues created, some done, others open
+    - done - AI info boxes - EG
+        - EG: I don't remember what this is about :sweat_smile: 
+    - :tools: Citable lessons - SW 
+        - DOI per lesson done (manually)
+            - automation
+            - metadata
+            - mention more prominently
+    - MOOC - AHM
+        - stuff already there on test platform
+        - continuing
+    - Install instructions - RD
+        - interactive chooser for finding what to do as participant was presented as prototype
+        - do we still think the chooser is a good idea?
+        - Could still pilot it for next workshop?
+        - Keep thinking about it
+        - 
+
+- Ideas for new working groups? Cannot do all, so just a collection for now.
+~~    - Behind the scenes tour (from last round, did not have a lead)~~
+    - CodeRefinery info package (presentation/poster/video/social media posts/places to present..?)
+        - https://zenodo.org/communities/coderefinery/records?q=&l=list&p=1&s=10&sort=newest
+        - https://github.com/coderefinery/presentations
+        - Short posts for social media of stuff we have available (text + image)
+    - Lesson contribution guide + lesson maintainership process
+        - https://coderefinery.github.io/manuals/lesson-contribution/
+    - Event page template update
+        - https://github.com/coderefinery/template-workshop-webpage/
+    - CodeRefinery workshop definitions & what can be hosted: 
+        - https://hackmd.io/@coderefinery/CR_def
+    - CodeRefinery JOSE paper
+        - https://jose.theoj.org/
+        - Citable reference for the project and workshop
+    - EViTA submission of CR lesson(s): interest: BL
+    - TTT (see above)
+    - LEsson template and sharing about it
+    - ..
+
+
+- Active working groups with lead: 
+    - Social coding - SR
+    - Data steward - SW
+    - AI lesson - EG
+    - Mooc - AVM
+    - Install instructions - RD (unless someone else wants)
+    - Evita -  BL
+    - Behind the scenes tour - BT
+    - JOSE - HM
+
+- What's next?
+    - SW will reach out to working group leads about proceedings for the working groups
+
+## 2026-04-13 Ambassador meetup
+
+Attending: SW (host), MT, JH, FR, SR, VH, BT, OT, RD, TP
+
+- Welcome
+- Intro round
+    - Connection to CodeRefinery
+    - What would you like to get out of this meeting?
+        - Catching up :) 
+        - Reconnecting
+        - Learning 
+- News from the project
+    - Spring workshop
+        - any questions/feedback?
+    - Working group updates 
+        - see https://hackmd.io/W4VDMDiWQ4eiyZ9Xk9hVzw?view#CodeRefinery-working-groups-updates
+        - any questions/interests? (add your initials to the Working group you are interested in)
+- Questions to you: 
+    - We heard that some organizations cannot share info about workshops that do not include their organizations logo, is this an issue for you?
+        - What channels? mailing lists, info screens, 
+        - Should not be an issue for uni, non-profit, free
+        - Libraries seems to be a good way to go (mailing list)
+        - Piggybacking on existing projects, not send own -> offer as something good and free
+        - Offer to give something (name on website, logo?)
+        - Bulletin board vs official e-mail : different expectations/news
+        - internal channels to share about special issues/conferences, chat?
+        - infiltrating chats etc :) 
+        - careful with too many e-mails to same people from different channels
+        - "talk about it", make easy to show, share internally, offer them something
+        - share also what we do beyond the workshop
+        - suspicious about free stuff, make them pay?
+            - classroom as paid option with extra 
+        - make clear that people understand it is publicly funded
+            - website, event page
+        - > Actionpoint for SW: Make possible to add logo/name for supporters
+        - > Actionpoint for all: Share wherever you can, check inofficial channels, chats, boards etc
+        - > Actionpoint for SW: Working group for info package
+    - Any topics that it is hard to find materials/courses about, that would fit the CodeRefinery project?
+        - (from chat) Security for research software
+        - (from chat) LaTex
+        - performance problems: profilers (some good resources from LUMI, missing semester in CS), wrong data layout
+        - intro course on HPC: general -> Aalto HPC kickstart: https://scicomp.aalto.fi/training/scip/kickstart-2026/
+        - intro to software design, philosophies etc
+        - > Actionpoint SW: Check feasibility, linking of materials/events we know of
+- AOB
+    - Maintainathon happened in January for the CAA [Special Interest Group for Scientific Scripting Languages in Archaeology](https://sslarch.github.io/), next year they would like to extend the event to more associations and groups (contact Matteo if you are part of some group that would like to join this effort)
+        - Also created a page of resrouces for the event which is super useful https://sslarch.github.io/maintainathon/resources.html
+
+
 ## 2026-03-30 Workshop wrap-up
 
 Attending: SW (host), EG, RD, BL, FR, IP, BN, AV, OT, EP, HM, MM, PHL ...
@@ -118,8 +590,6 @@ Attending: DI, NL, RD, BT, BL, FR, SW(host),
 
 ## 2026-03-02 Workshop pre-meeting
 
-Attending: ...
-
 - Workshop roles: All filled and clear?
     - All ok, some "orange" ones to be confirmed (but I am sure they were)
 - Instructors feel ready?
@@ -131,7 +601,7 @@ Attending: ...
         - Enrico to ping Luca, but things should be fine.
     - AOB
         - Coding with AI lesson update + idea for a "train the trainers" with https://missing.csail.mit.edu/2026/agentic-coding/
-            - [name=Ashwin V. Mohanan]: Initial sketch for a lesson here (suggestions welcome): https://github.com/mimer-ai/agentic-101/issues/1
+            - AVM: Initial sketch for a lesson here (suggestions welcome): https://github.com/mimer-ai/agentic-101/issues/1
         - Motivating people to come to the installation sessions with chocolate.
 
 ## 2026-02-23 Team meeting
